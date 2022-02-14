@@ -2,8 +2,7 @@ public class Basics {
     public static void main(String[] args) {
 
 // if and else Statements in Java
-// You should use lowercase for if and else
-
+        
       int a = 10;
        if (a == 12){
            System.out.println("Hello World");
