@@ -1,9 +1,6 @@
 # Java Tutorial by Rituraj Mahato
 I have created this Java + Data Structures and Algorithms Tutorials Repository to share the knowledge I gained while learning.
 
-# Java Tutorial by Rituraj Mahato
-I have created this Java + Data Structures and Algorithms Tutorials Repository to share the knowledge I gained while learning.
-
 ✳️ Most of the files will contain some additional piece of information.
 
 🗂 Introduction to Java - Basics <br>
