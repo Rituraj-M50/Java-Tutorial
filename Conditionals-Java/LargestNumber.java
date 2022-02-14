@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Largest_Number {
+public class LargestNumber {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 //       Taking three inputs from the user for a, b and c.
