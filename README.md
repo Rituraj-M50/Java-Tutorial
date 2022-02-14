@@ -35,3 +35,21 @@ I have created this Java + Data Structures and Algorithms Tutorials Repository t
 ⏩ Type casting is a method or process that converts a data type into another data type. <br>
 🎯 Maunal Type Casting <br>
 🎯 Automatic Type Casting <br>
+
+🗂 Conditionals-Java <br>
+<br>
+✅ Calculator Program <br>
+<br>
+✅ Casecheck Program <br>
+<br>
+✅ Fibonacci Program <br>
+<br>
+✅ Largest Number Program <br>
+<br>
+✅ Loop Programs <br>
+<br>
+✅ Reverse a Number Program <br>
+<br>
+✅ Salary Program <br>
+<br>
+
