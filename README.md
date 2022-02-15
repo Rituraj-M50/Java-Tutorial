@@ -48,8 +48,12 @@ I have created this Java + Data Structures and Algorithms Tutorials Repository t
 <br>
 ✅ Loop Programs <br>
 <br>
+✅ Nested Switch Program <br>
+<br>
 ✅ Reverse a Number Program <br>
 <br>
 ✅ Salary Program <br>
+<br>
+✅ Switch Program <br>
 <br>
 
