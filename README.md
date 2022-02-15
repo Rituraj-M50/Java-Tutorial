@@ -13,6 +13,7 @@ I have created this Java + Data Structures and Algorithms Tutorials Repository t
 🎯 Various Primitive Datatypes <br>
 🎯 Number of Primitive Datatypes in Java <br>
 🎯 String Pool <br>
+✅ Sum Program <br>
 ✅ Temperature Program <br>
 ✅ Type Casting <br>
 ⏩ Type casting is a method or process that converts a data type into another data type. <br>
