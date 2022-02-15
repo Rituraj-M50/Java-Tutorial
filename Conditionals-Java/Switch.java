@@ -28,7 +28,7 @@ public class Main {
                 System.out.println("Please enter a valid fruit !");
         }
         
-//      We can write much cleaner code using Enhanced Switch Statements
+//      Enhanced Switch Statements in Java Programming
         
         switch (fruit) {
             case "Mango" -> System.out.println("King of Fruits");
