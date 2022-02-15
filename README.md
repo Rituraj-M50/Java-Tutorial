@@ -39,21 +39,13 @@ I have created this Java + Data Structures and Algorithms Tutorials Repository t
 🗂 Conditionals-Java <br>
 <br>
 ✅ Calculator Program <br>
-<br>
 ✅ Casecheck Program <br>
-<br>
 ✅ Fibonacci Program <br>
-<br>
 ✅ Largest Number Program <br>
-<br>
 ✅ Loop Programs <br>
-<br>
 ✅ Nested Switch Program <br>
-<br>
 ✅ Reverse a Number Program <br>
-<br>
 ✅ Salary Program <br>
-<br>
 ✅ Switch Program <br>
-<br>
+
 
