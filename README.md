@@ -40,4 +40,11 @@ I have created this Java + Data Structures and Algorithms Tutorials Repository t
 
 <p align="justify">🎯 Overloading allows different methods to have the same name, but different signatures where the signature can differ by the number of input parameters or type of input parameters or both. Overloading is related to compile-time (or static) polymorphism.</p>
 
+✅ Parameters in Java <br>
+
+<p align="justify">Parameters are specified after the method name, inside the parentheses. You can add as many parameters as you want, just separate them with a comma.</p>
+
+<p align="justify">Arguments in Java are the actual values that are passed to variables defined in the method header when the method is called from another method.</p>
+
+
 
