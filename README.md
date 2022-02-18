@@ -36,6 +36,8 @@ I have created this Java + Data Structures and Algorithms Tutorials Repository t
 
 <p align="justify">A method is a block of code or collection of statements or a set of code grouped together to perform a certain task or operation. It is used to achieve the reusability of code. We write a method once and use it many times. We do not require to write code again and again. It also provides the easy modification and readability of code, just by adding or removing a chunk of code. The method is executed only when we call or invoke it.</p>
 
+✅ CheckPrime Program <br>
+
 ✅ Overloading Program <br>
 
 <p align="justify">🎯 Overloading allows different methods to have the same name, but different signatures where the signature can differ by the number of input parameters or type of input parameters or both. Overloading is related to compile-time (or static) polymorphism.</p>
